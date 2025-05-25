@@ -1,0 +1,5 @@
+services:
+  - type: static
+    name: bonne-fete-maman
+    env: static
+    staticPublishPath: public
